@@ -1,0 +1,13 @@
+Center of circle 950x360 range 284
+light-3 818x670 dimentions 35x24
+light-1 872x670 dimentions 32x24
+light-6 1017x670 dimentions 35x24
+light-5 1070x670 dimentions 35x24
+turn-light 736x42 dimentions 36x28
+Fill 1 1370x668 dimentions 27x28
+Petrol-gauge 1417x674 dimentions 137x17
+icon_ani 1362x37 dimentions 48x48
+connecting - text 1412x47
+turn left - text and arrow 1363x195 dimentions 41x68
+time - text 933x674
+map 0x0 to 752x720
